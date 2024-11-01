@@ -1,7 +1,7 @@
-## Hi there 👋
+## Olá 👋
 
 - 🔭 Estou trabalhando como desenvolvedor de software junior com foco no backend mas também atuando em demandas no frontend
-- 🌱 Me aprofundando no universo do .Net mais especificamente ferramentas de desenvolvimento Web (ASP.Net)
+- 🌱 Me aprofundando no universo do .Net mais especificamente no backend
 - 😄 Pronome: Ele/Dele
 - 🎬 Hobbies: Me considero um grande cinéfilo
 
