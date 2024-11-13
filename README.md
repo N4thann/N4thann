@@ -2,7 +2,6 @@
 
 - 🔭 Estou trabalhando como desenvolvedor de software junior com foco no backend mas também atuando em demandas no frontend
 - 🌱 Me aprofundando no universo do .Net mais especificamente no Backend
-- 🎬 Hobbies: Me considero um grande cinéfilo
 
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
