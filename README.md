@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🔭 Estou trabalhando como desenvolvedor de software junior com foco no backend mas também atuando em demandas no frontend
+- 🔭 Estou trabalhando como desenvolvedor de software junior com foco no backend(.Net/C#) mas também atuando em demandas no frontend(Razor Pages)
 - 🌱 Me aprofundando no universo do .Net mais especificamente no Backend
 
 <div style="display: inline_block"><br>
