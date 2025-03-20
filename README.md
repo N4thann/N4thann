@@ -2,6 +2,7 @@
 
 - 🔭 Estou trabalhando como desenvolvedor de software junior com foco no backend(.Net/C#) mas também atuando em demandas no frontend(Razor Pages)
 - 🌱 Me aprofundando no universo do .Net mais especificamente no Backend
+- 📄 Uma das minhas estratégias de estudo é o uso de flashcards no Anki, onde mantenho dois baralhos: um genérico de inglês e outro de programação, criado por mim, para reforçar conceitos teóricos e revisar implementações. Além da prática diária na programação, dou grande importância à fixação da teoria, abrangendo temas como DevOps, novidades do .NET, banco de dados, conceitos de backend e frontend, entre outros.
 
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
