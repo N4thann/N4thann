@@ -5,8 +5,7 @@ atuo como Desenvolvedor Backend Pleno, com sólida experiência no desenvolvimen
 o ecossistema .NET (ASP.NET Core, Entity Framework, Razor Pages), aplicando Clean Architecture e princípios
 SOLID. Embora minha especialização seja Backend, também desenvolvi competências em Frontend para aplicações
 web e possuo experiência com cloud computing (Google Cloud Platform), microserviços e bancos de dados
-relacionais e NoSQL. Minha trajetória inclui atuação em suporte técnico de sistemas web, o que me proporcionou
-uma visão abrangente do ciclo de vida de aplicações web corporativas. Destaco-me pela organização, determinação
+relacionais e NoSQL. Destaco-me pela organização, determinação
 e proatividade no desenvolvimento de soluções web técnicas e escaláveis.
 
 <div style="display: inline_block"><br>
