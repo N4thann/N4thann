@@ -1,30 +1,41 @@
-## Olá 👋
+## Olá, eu sou o Nathan Farias 👋
 
-- 📄 Sou graduado em Ciências da Computação com Pós-Graduação em andamento em Engenharia DevOps. Atualmente
-atuo como Desenvolvedor Backend Pleno, com sólida experiência no desenvolvimento de aplicações web utilizando
-o ecossistema .NET (ASP.NET Core, Entity Framework, Razor Pages), aplicando Clean Architecture e princípios
-SOLID. Embora minha especialização seja Backend, também desenvolvi competências em Frontend para aplicações
-web e possuo experiência com cloud computing (Google Cloud Platform), microserviços e bancos de dados
-relacionais e NoSQL. Destaco-me pela organização, determinação
-e proatividade no desenvolvimento de soluções web técnicas e escaláveis.
+<p align="left">
+  Desenvolvedor Backend Pleno, graduado em Ciências da Computação e cursando Pós-Graduação em Engenharia DevOps.
+</p>
+
+Minha carreira é focada na construção de soluções robustas e escaláveis com o **ecossistema .NET**, aplicando princípios de **Clean Architecture** e **SOLID**. Tenho mais de um ano de experiência consolidada em um framework de e-commerce de alta complexidade (Grand.node) em **.NET 5**, atuando no desenvolvimento do core e em múltiplas integrações, incluindo serviços construídos em **Node.js**. Minha expertise principal inclui **ASP.NET Core, Entity Framework** e computação em nuvem com **Google Cloud Platform (GCP)**.
+
+Embora meu foco seja o backend, estou sempre expandindo minhas habilidades. Atualmente, estudo **Angular, JavaScript e TypeScript** para desenvolvimento web e possuo experiência na manutenção de um aplicativo móvel em **Ionic + Angular**.
+
+- 🎓 Graduado em **Ciências da Computação**
+- 🚀 Pós-Graduação em andamento em **Engenharia DevOps**
+- 💻 Foco principal: **.NET, C#, Backend e Cloud (GCP)**
+- 🌱 Estudando: **Angular, TypeScript e JavaScript**
+
+---
+
+### 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img lign="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img lign="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  <img lign="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img lign="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="DotNet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" alt="Ionic" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
+  <img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="GCP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 </div>
-  
-  ##
- 
-<div> 
+
+---
+
+### 📫 Conecte-se Comigo
+
+<div>
   <a href="https://www.youtube.com/@nathanfarias591" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nathann_farias/profilecard/?igsh=ZGk0anRxc2E5b25p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:francisco.nathan2@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-farias-5bb97a243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.instagram.com/nathann_farias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:francisco.nathan2@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathan-farias-5bb97a243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
