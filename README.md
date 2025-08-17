@@ -1,7 +1,7 @@
 ## Olá, eu sou o Nathan Farias 👋
 
 <p align="left">
-  Desenvolvedor Backend Pleno, graduado em Ciências da Computação e cursando Pós-Graduação em Engenharia DevOps.
+  Desenvolvedor Backend Pleno, graduado em Ciências da Computação(UVA) e cursando Pós-Graduação Lato Sensu em Engenharia DevOps(IFMT).
 </p>
 
 Minha carreira é focada na construção de soluções robustas e escaláveis com o **ecossistema .NET**, aplicando princípios de **Clean Architecture** e **SOLID**. Tenho mais de um ano de experiência consolidada em um framework de e-commerce de alta complexidade (Grand.node) em **.NET 5**, atuando no desenvolvimento do core e em múltiplas integrações, incluindo serviços construídos em **Node.js**. Minha expertise principal inclui **ASP.NET Core, Entity Framework** e computação em nuvem com **Google Cloud Platform (GCP)**.
@@ -9,7 +9,7 @@ Minha carreira é focada na construção de soluções robustas e escaláveis co
 Embora meu foco seja o backend, estou sempre expandindo minhas habilidades. Atualmente, estudo **Angular, JavaScript e TypeScript** para desenvolvimento web e possuo experiência na manutenção de um aplicativo móvel em **Ionic + Angular**.
 
 - 🎓 Graduado em **Ciências da Computação**
-- 🚀 Pós-Graduação em andamento em **Engenharia DevOps**
+- 🚀 Pós-Graduação Lato Sensu em andamento em **Engenharia DevOps**
 - 💻 Foco principal: **.NET, C#, Backend e Cloud (GCP)**
 - 🌱 Estudando: **Angular, TypeScript e JavaScript**
 
