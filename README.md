@@ -1,10 +1,14 @@
 ## Olá, eu sou o Nathan Farias 👋
 
 <p align="left">
-  Atualmente atuo como Engenheiro de Software Pleno, graduado em Ciências da Computação(UVA) e cursando Pós-Graduação Lato Sensu em Engenharia DevOps(IFMT).
+  Atuo como Engenheiro de Software Pleno, sou graduado em Ciências da Computação (UVA) e estou cursando Pós-Graduação Lato Sensu em Engenharia DevOps (IFMT) para aprofundar minha atuação na cultura DevOps e automação de processos.
 </p>
 
-Minha carreira é focada na construção de soluções robustas e escaláveis com o **ecossistema .NET**, aplicando princípios de **Clean Architecture** e **SOLID**. Tenho mais de dois anos de experiência consolidada em um framework de e-commerce de alta complexidade (Grand.node) em **.NET 5**, atuando no desenvolvimento do core e em múltiplas integrações, incluindo serviços construídos em **Node.js**. Minha expertise principal inclui **ASP.NET Core, Entity Framework** e computação em nuvem com **Google Cloud Platform (GCP)**. 
+Minha carreira é focada na construção de soluções robustas e escaláveis no ecossistema .NET. Tenho mais de 1 ano de experiência em um framework de e-commerce completo em .NET, o que consolidou minha expertise em ASP.NET Core e Entity Framework em ambientes de alta complexidade.
+
+Meu foco principal é a arquitetura de sistemas, aplicando diariamente princípios SOLID, Design Patterns e Clean Architecture para criar software manutenível.
+
+Sou proficiente em Google Cloud Platform (GCP) (+1 ano de experiência), onde desenvolvo e gerencio soluções para aplicações .NET. Tenho ampla experiência com diversas tecnologias de banco de dados, aplicando MongoDB em contextos de e-commerce, PostgreSQL para novas integrações e SQL Server em sistemas legados.
 
 Embora meu foco seja o backend, estou sempre expandindo minhas habilidades. Atualmente, estudo também **React, JavaScript e TypeScript** para frontend.
 
@@ -31,6 +35,10 @@ Embora meu foco seja o backend, estou sempre expandindo minhas habilidades. Atua
   <img align="center" alt="Redis" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
   <img align="center" alt="Grafana" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />  
   <img align="center" alt="Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+  <img align="center" alt="Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img align="center" alt="Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+<img align="center" alt="Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />          
 </div>
 
 ---
